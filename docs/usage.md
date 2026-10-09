@@ -53,3 +53,4 @@ Notes and usage details for autospec.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
